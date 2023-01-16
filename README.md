@@ -1,0 +1,1 @@
+# Stramlit-Diabetes-Prediction- This was a diabetes prediction app that is more interactive and user friendly to all. Streamlit gives it that cool feature. So, based on some few parameters, the app will accurately predict if someone is diabetic or not.
